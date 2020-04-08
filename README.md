@@ -1,1 +1,1 @@
-# softmax_neural_network
+# covid-19_image_classifier
